@@ -1,0 +1,33 @@
+E:\New folder (3)\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Release\ImageQuantization.exe
+E:\New folder (3)\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Release\ImageQuantization.pdb
+E:\New folder (3)\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ResolveAssemblyReference.cache
+E:\New folder (3)\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.MainForm.resources
+E:\New folder (3)\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.Properties.Resources.resources
+E:\New folder (3)\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csproj.GenerateResource.Cache
+E:\New folder (3)\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.exe
+E:\New folder (3)\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.pdb
+E:\New folder (3)\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\New folder\ImageQuantization\bin\Release\ImageQuantization.exe
+E:\New folder (3)\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\New folder\ImageQuantization\bin\Release\ImageQuantization.pdb
+E:\New folder (3)\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\New folder\ImageQuantization\obj\Release\ResolveAssemblyReference.cache
+E:\New folder (3)\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\New folder\ImageQuantization\obj\Release\ImageQuantization.MainForm.resources
+E:\New folder (3)\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\New folder\ImageQuantization\obj\Release\ImageQuantization.Properties.Resources.resources
+E:\New folder (3)\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\New folder\ImageQuantization\obj\Release\ImageQuantization.csproj.GenerateResource.Cache
+E:\New folder (3)\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\New folder\ImageQuantization\obj\Release\ImageQuantization.exe
+E:\New folder (3)\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\New folder\ImageQuantization\obj\Release\ImageQuantization.pdb
+E:\New folder (3)\ImageQuantization\bin\Release\ImageQuantization.exe
+E:\New folder (3)\ImageQuantization\bin\Release\ImageQuantization.pdb
+E:\New folder (3)\ImageQuantization\obj\Release\ResolveAssemblyReference.cache
+E:\New folder (3)\ImageQuantization\obj\Release\ImageQuantization.MainForm.resources
+E:\New folder (3)\ImageQuantization\obj\Release\ImageQuantization.Properties.Resources.resources
+E:\New folder (3)\ImageQuantization\obj\Release\ImageQuantization.exe
+E:\New folder (3)\ImageQuantization\obj\Release\ImageQuantization.pdb
+E:\New folder (3)\ImageQuantization\obj\Release\GenerateResource.read.1.tlog
+E:\New folder (3)\ImageQuantization\obj\Release\GenerateResource.write.1.tlog
+D:\ImageQuantization\bin\Release\ImageQuantization.exe
+D:\ImageQuantization\bin\Release\ImageQuantization.pdb
+D:\ImageQuantization\obj\Release\ImageQuantization.csprojResolveAssemblyReference.cache
+D:\ImageQuantization\obj\Release\ImageQuantization.MainForm.resources
+D:\ImageQuantization\obj\Release\ImageQuantization.Properties.Resources.resources
+D:\ImageQuantization\obj\Release\ImageQuantization.csproj.GenerateResource.Cache
+D:\ImageQuantization\obj\Release\ImageQuantization.exe
+D:\ImageQuantization\obj\Release\ImageQuantization.pdb

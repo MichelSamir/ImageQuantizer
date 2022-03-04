@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ImageQuantization">
+</Property><Property Name="Solution File" Value="E:\New folder (3)\ImageQuantization\ImageQuantization.sln">
+</Property><Property Name="User Options File" Value="E:\New folder (3)\ImageQuantization\ImageQuantization.suo">
+</Property><Property Name="Date" Value="Saturday, September 16, 2017">
+</Property><Property Name="Time" Value="0:05 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ImageQuantization.sln" Description="File successfully backed up as E:\New folder (3)\ImageQuantization\Backup\ImageQuantization.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ImageQuantization.suo" Description="File successfully backed up as E:\New folder (3)\ImageQuantization\Backup\ImageQuantization.suo">
+</Event><Event ErrorLevel="0" Project="ImageQuantization" Source="ImageQuantization.csproj" Description="Project file successfully backed up as E:\New folder (3)\ImageQuantization\Backup\ImageQuantization.csproj">
+</Event><Event ErrorLevel="0" Project="ImageQuantization" Source="MainForm.cs" Description="File successfully backed up as E:\New folder (3)\ImageQuantization\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="ImageQuantization" Source="MainForm.Designer.cs" Description="File successfully backed up as E:\New folder (3)\ImageQuantization\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ImageQuantization" Source="Properties\ImageOperations.cs" Description="File successfully backed up as E:\New folder (3)\ImageQuantization\Backup\Properties\ImageOperations.cs">
+</Event><Event ErrorLevel="0" Project="ImageQuantization" Source="Program.cs" Description="File successfully backed up as E:\New folder (3)\ImageQuantization\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="ImageQuantization" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\New folder (3)\ImageQuantization\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ImageQuantization" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as E:\New folder (3)\ImageQuantization\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ImageQuantization" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as E:\New folder (3)\ImageQuantization\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ImageQuantization" Source="Properties\Settings.settings" Description="File successfully backed up as E:\New folder (3)\ImageQuantization\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ImageQuantization" Source="MainForm.resx" Description="File successfully backed up as E:\New folder (3)\ImageQuantization\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="ImageQuantization" Source="Properties\Resources.resx" Description="File successfully backed up as E:\New folder (3)\ImageQuantization\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ImageQuantization" Source="ImageQuantization.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="ImageQuantization" Source="ImageQuantization.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="ImageQuantization.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ImageQuantization.sln" Description="Converted">
+</Event></UpgradeLog>
